@@ -43,6 +43,6 @@
 	}
 }
 - (NSString *)titleForSwitchIdentifier:(NSString *)switchIdentifier {
-	return @"Scree Shot Flash";
+	return @"Screen Shot Flash";
 }
 @end
